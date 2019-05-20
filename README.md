@@ -5,7 +5,7 @@ This project try to obtain inferences as a result of the questions asked to the 
 
 ### Requirements
 * CLIPS (Quicksilver Beta 5/31/08)
-* Sublime Text 3.1.1 and CLIPS CLI Environment
+* CLIPS CLI Environment
 
 ### Execute
 Before starting, please run this code with the help of a terminal in the corresponding folder;
@@ -17,7 +17,7 @@ and then
 CLIPS> (reset)
 CLIPS> (run)
 ```
-and if you wanna go exist, please run this code,
+and if you wanna go exit, please run this code,
 ```
 CLIPS> (exit)
 ```
